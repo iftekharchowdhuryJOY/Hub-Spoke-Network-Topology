@@ -45,12 +45,3 @@ terraform apply
 ### **What is Next: Project 3**
 
 Now that the roads (Network) are built, we need to put some cars (Servers) on them.
-
-**Project 3: Auto-Healing Web Server Cluster**
-We are going to deploy a web application into the **Dev VPC** we just built.
-
-* **The Goal:** If the server crashes, AWS notices and automatically replaces it.
-* **The Tech:** Auto Scaling Groups (ASG) + Application Load Balancer (ALB).
-
-**Ready to start Project 3?**
-Create the folder `03-asg-web` and let me know when you are ready for the code!
